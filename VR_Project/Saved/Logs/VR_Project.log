@@ -4724,3 +4724,4 @@ FPackageName: Skipped package /Game/VRTemplate/Maps/VRTemplateMap_BuiltData has 
 [2025.06.02-00.59.28:675][876]LogPlayLevel: Display: Destroying online subsystem :Context_38
 [2025.06.02-00.59.30:052][928]LogSlate: Window 'Message Log' being destroyed
 [2025.06.02-00.59.30:062][928]LogSlate: Window 'Message Log' being destroyed
+[2025.06.02-01.00.13:872][111]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
