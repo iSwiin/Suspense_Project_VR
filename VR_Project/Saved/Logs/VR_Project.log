@@ -1912,3 +1912,4 @@ FPackageName: Skipped package /Game/VRTemplate/Maps/VRTemplateMap_BuiltData has 
 [2025.06.02-01.09.45:314][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
 [2025.06.02-01.09.45:324][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
 [2025.06.02-01.10.15:856][467]LogDerivedDataCache: C:/Users/dinad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.02-01.11.15:753][646]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
