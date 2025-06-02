@@ -3166,3 +3166,13 @@ FPackageName: Skipped package /Game/VRTemplate/Maps/VRTemplateMap_BuiltData has 
 [2025.06.02-00.30.47:798][790]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2025.06.02-00.31.54:413][990]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2025.06.02-00.33.16:240][243]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.06.02-00.36.35:098][ 88]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29425.273438
+[2025.06.02-00.36.36:098][ 91]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.02-00.36.36:098][ 91]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29425.941406, Update Interval: 331.665405
+[2025.06.02-00.37.13:607][204]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.06.02-00.37.53:823][324]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.06.02-00.39.01:551][ 97]LogDerivedDataCache: C:/Users/dinad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.02-00.42.47:631][774]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29797.888672
+[2025.06.02-00.42.48:630][777]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.02-00.42.48:630][777]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29798.556641, Update Interval: 354.900360
+[2025.06.02-00.43.09:851][857]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
