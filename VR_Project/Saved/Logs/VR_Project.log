@@ -2606,3 +2606,456 @@ FPackageName: Skipped package /Game/VRTemplate/Maps/VRTemplateMap_BuiltData has 
 [2025.06.10-18.34.13:753][956]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2025.06.10-18.34.13:755][956]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
 [2025.06.10-18.34.13:913][957]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.06.10-18.40.16:184][951]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 60102.578125
+[2025.06.10-18.40.17:184][954]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.10-18.40.17:184][954]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 60103.242188, Update Interval: 342.163147
+[2025.06.10-18.46.16:583][319]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.10-18.46.16:595][319]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.10-18.46.16:619][319]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Basic_Map
+[2025.06.10-18.46.16:623][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004322s)
+[2025.06.10-18.46.16:623][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Basic_Map.Basic_Map to /Game/UEDPIE_0_Basic_Map.Basic_Map (0.004414s)
+[2025.06.10-18.46.16:646][319]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.06.10-18.46.16:649][319]LogChaosDD: Creating Chaos Debug Draw Scene for world Basic_Map
+[2025.06.10-18.46.16:650][319]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/UEDPIE_0_Basic_Map.Basic_Map'.
+[2025.06.10-18.46.16:651][319]LogPlayLevel: PIE: World Init took: (0.001894s)
+[2025.06.10-18.46.16:652][319]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.06.10-18.46.16:652][319]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.10-18.46.16:652][319]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.10-18.46.16:652][319]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.10-18.46.16:652][319]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.10-18.46.16:652][319]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.10-18.46.16:652][319]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.10-18.46.16:652][319]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.10-18.46.16:652][319]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.10-18.46.16:652][319]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.10-18.46.16:652][319]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.10-18.46.16:652][319]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.10-18.46.16:656][319]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.10-18.46.16:711][319]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.06.10-18.46.16:711][319]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.10-18.46.16:712][319]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.10-18.46.16:712][319]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.10-18.46.16:712][319]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.06.10-18.46.16:712][319]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.06.10-18.46.16:716][319]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.06.10-18.46.16:716][319]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.06.10-18.46.16:716][319]LogInit: FAudioDevice initialized with ID 12.
+[2025.06.10-18.46.16:716][319]LogAudio: Display: Audio Device (ID: 12) registered with world 'Basic_Map'.
+[2025.06.10-18.46.16:716][319]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.06.10-18.46.16:719][319]LogLoad: Game class is 'VRGameMode_C'
+[2025.06.10-18.46.16:721][319]LogWorld: Bringing World /Game/UEDPIE_0_Basic_Map.Basic_Map up for play (max tick rate 0) at 2025.06.10-14.46.16
+[2025.06.10-18.46.16:722][319]LogWorld: Bringing up level for play took: 0.002019
+[2025.06.10-18.46.16:726][319]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.06.10-18.46.16:729][319]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.06.10-18.46.16:731][319]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.06.10-18.46.16:733][319]PIE: Server logged in
+[2025.06.10-18.46.16:734][319]PIE: Play in editor total start time 0.139 seconds.
+[2025.06.10-18.46.30:288][601]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 60473.726562
+[2025.06.10-18.46.30:368][609]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.10-18.46.30:368][609]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 60473.796875, Update Interval: 349.745789
+[2025.06.10-18.46.30:840][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.10-18.46.30:840][655]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Basic_Map
+[2025.06.10-18.46.30:841][655]LogWorld: UWorld::CleanupWorld for Basic_Map, bSessionEnded=true, bCleanupResources=true
+[2025.06.10-18.46.30:841][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.10-18.46.30:856][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.10-18.46.30:861][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.10-18.46.30:881][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.10-18.46.30:881][655]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.06.10-18.46.30:881][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.06.10-18.46.30:883][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.06.10-18.46.30:893][655]LogSlate: Slate User Unregistered.  User Index 8
+[2025.06.10-18.46.30:893][655]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.06.10-18.46.30:895][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.06.10-18.46.30:981][656]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.06.10-18.46.32:152][750]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.10-18.46.32:162][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.10-18.46.32:162][750]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Basic_Map
+[2025.06.10-18.46.32:166][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004018s)
+[2025.06.10-18.46.32:166][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Basic_Map.Basic_Map to /Game/UEDPIE_0_Basic_Map.Basic_Map (0.004061s)
+[2025.06.10-18.46.32:187][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.06.10-18.46.32:188][750]LogChaosDD: Creating Chaos Debug Draw Scene for world Basic_Map
+[2025.06.10-18.46.32:190][750]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/UEDPIE_0_Basic_Map.Basic_Map'.
+[2025.06.10-18.46.32:190][750]LogPlayLevel: PIE: World Init took: (0.002012s)
+[2025.06.10-18.46.32:191][750]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.06.10-18.46.32:191][750]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.10-18.46.32:191][750]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.10-18.46.32:191][750]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.10-18.46.32:191][750]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.10-18.46.32:191][750]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.10-18.46.32:191][750]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.10-18.46.32:191][750]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.10-18.46.32:191][750]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.10-18.46.32:191][750]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.10-18.46.32:191][750]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.10-18.46.32:191][750]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.10-18.46.32:195][750]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.10-18.46.32:250][750]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.06.10-18.46.32:251][750]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.10-18.46.32:251][750]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.10-18.46.32:251][750]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.10-18.46.32:251][750]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.06.10-18.46.32:252][750]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.06.10-18.46.32:255][750]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.06.10-18.46.32:255][750]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.06.10-18.46.32:255][750]LogInit: FAudioDevice initialized with ID 13.
+[2025.06.10-18.46.32:255][750]LogAudio: Display: Audio Device (ID: 13) registered with world 'Basic_Map'.
+[2025.06.10-18.46.32:255][750]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.06.10-18.46.32:258][750]LogLoad: Game class is 'VRGameMode_C'
+[2025.06.10-18.46.32:261][750]LogWorld: Bringing World /Game/UEDPIE_0_Basic_Map.Basic_Map up for play (max tick rate 0) at 2025.06.10-14.46.32
+[2025.06.10-18.46.32:262][750]LogWorld: Bringing up level for play took: 0.002702
+[2025.06.10-18.46.32:265][750]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.06.10-18.46.32:269][750]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.06.10-18.46.32:270][750]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.06.10-18.46.32:272][750]PIE: Server logged in
+[2025.06.10-18.46.32:273][750]PIE: Play in editor total start time 0.112 seconds.
+[2025.06.10-18.46.43:420][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.10-18.46.43:420][734]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Basic_Map
+[2025.06.10-18.46.43:420][734]LogWorld: UWorld::CleanupWorld for Basic_Map, bSessionEnded=true, bCleanupResources=true
+[2025.06.10-18.46.43:421][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.10-18.46.43:426][734]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.10-18.46.43:434][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.10-18.46.43:458][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.10-18.46.43:458][734]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.06.10-18.46.43:458][734]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.06.10-18.46.43:461][734]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.06.10-18.46.43:471][734]LogSlate: Slate User Unregistered.  User Index 8
+[2025.06.10-18.46.43:471][734]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.06.10-18.46.43:473][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.06.10-18.46.43:557][735]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.06.10-18.46.44:346][795]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.10-18.46.44:357][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.10-18.46.44:357][795]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Basic_Map
+[2025.06.10-18.46.44:361][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003940s)
+[2025.06.10-18.46.44:361][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Basic_Map.Basic_Map to /Game/UEDPIE_0_Basic_Map.Basic_Map (0.004031s)
+[2025.06.10-18.46.44:385][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.06.10-18.46.44:388][795]LogChaosDD: Creating Chaos Debug Draw Scene for world Basic_Map
+[2025.06.10-18.46.44:389][795]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/UEDPIE_0_Basic_Map.Basic_Map'.
+[2025.06.10-18.46.44:389][795]LogPlayLevel: PIE: World Init took: (0.001897s)
+[2025.06.10-18.46.44:391][795]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.06.10-18.46.44:391][795]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.10-18.46.44:391][795]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.10-18.46.44:391][795]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.10-18.46.44:391][795]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.10-18.46.44:391][795]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.10-18.46.44:391][795]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.10-18.46.44:391][795]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.10-18.46.44:391][795]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.10-18.46.44:391][795]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.10-18.46.44:391][795]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.10-18.46.44:391][795]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.10-18.46.44:394][795]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.10-18.46.44:452][795]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.06.10-18.46.44:452][795]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.10-18.46.44:452][795]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.10-18.46.44:452][795]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.10-18.46.44:453][795]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.06.10-18.46.44:453][795]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.06.10-18.46.44:456][795]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.06.10-18.46.44:456][795]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.06.10-18.46.44:456][795]LogInit: FAudioDevice initialized with ID 14.
+[2025.06.10-18.46.44:456][795]LogAudio: Display: Audio Device (ID: 14) registered with world 'Basic_Map'.
+[2025.06.10-18.46.44:457][795]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.06.10-18.46.44:461][795]LogLoad: Game class is 'VRGameMode_C'
+[2025.06.10-18.46.44:463][795]LogWorld: Bringing World /Game/UEDPIE_0_Basic_Map.Basic_Map up for play (max tick rate 0) at 2025.06.10-14.46.44
+[2025.06.10-18.46.44:464][795]LogWorld: Bringing up level for play took: 0.002216
+[2025.06.10-18.46.44:468][795]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2025.06.10-18.46.44:472][795]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.06.10-18.46.44:473][795]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.06.10-18.46.44:475][795]PIE: Server logged in
+[2025.06.10-18.46.44:476][795]PIE: Play in editor total start time 0.12 seconds.
+[2025.06.10-18.46.50:660][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.10-18.46.50:661][308]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Basic_Map
+[2025.06.10-18.46.50:661][308]LogWorld: UWorld::CleanupWorld for Basic_Map, bSessionEnded=true, bCleanupResources=true
+[2025.06.10-18.46.50:661][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.10-18.46.50:667][308]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.10-18.46.50:674][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.10-18.46.50:695][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.10-18.46.50:695][308]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.06.10-18.46.50:695][308]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.06.10-18.46.50:697][308]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.06.10-18.46.50:708][308]LogSlate: Slate User Unregistered.  User Index 8
+[2025.06.10-18.46.50:708][308]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.06.10-18.46.50:710][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.06.10-18.46.50:795][309]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.06.10-18.48.27:620][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.06.10-18.48.31:646][985]LogSlate: External Image Picker: DecompressImage failed
+[2025.06.10-18.48.44:525][832]LogSlate: Window 'Project Settings' being destroyed
+[2025.06.10-18.48.44:535][832]LogSlate: Window 'Project Settings' being destroyed
+[2025.06.10-18.49.54:348][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.06.10-18.51.21:193][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.06.10-18.51.21:197][840]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Basic_Map' took 0.031
+[2025.06.10-18.51.21:198][840]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/VRPawn] ([2] browsable assets)...
+[2025.06.10-18.51.21:209][840]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn]
+[2025.06.10-18.51.21:209][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/VRPawn]
+[2025.06.10-18.51.21:293][840]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto0
+[2025.06.10-18.51.21:293][840]LogSavePackage: Moving '../../../../../../Users/dinad/OneDrive/Documents/Unreal Projects/Suspense_Project_VR/VR_Project/Saved/VRPawn_Auto01B2563B841D47A9E87CD0E912189E9BF.tmp' to '../../../../../../Users/dinad/OneDrive/Documents/Unreal Projects/Suspense_Project_VR/VR_Project/Saved/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto0.uasset'
+[2025.06.10-18.51.21:295][840]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Minecart/Cart_BP] ([2] browsable assets)...
+[2025.06.10-18.51.21:303][840]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Minecart/Cart_BP.Cart_BP]
+[2025.06.10-18.51.21:303][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/Minecart/Cart_BP]
+[2025.06.10-18.51.21:316][840]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Minecart/Cart_BP_Auto0
+[2025.06.10-18.51.21:316][840]LogSavePackage: Moving '../../../../../../Users/dinad/OneDrive/Documents/Unreal Projects/Suspense_Project_VR/VR_Project/Saved/Cart_BP_Auto0B5961B9441C01528D0AA35BC4F09AAE3.tmp' to '../../../../../../Users/dinad/OneDrive/Documents/Unreal Projects/Suspense_Project_VR/VR_Project/Saved/Autosaves/Game/Minecart/Cart_BP_Auto0.uasset'
+[2025.06.10-18.51.21:317][840]LogFileHelpers: Auto-saving content packages took 0.119
+[2025.06.10-18.53.15:983][414]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 60863.156250
+[2025.06.10-18.53.16:042][420]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.10-18.53.16:042][420]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 60863.207031, Update Interval: 303.292328
+[2025.06.10-18.55.33:831][663]LogDerivedDataCache: C:/Users/dinad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.10-18.56.45:066][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.06.10-18.58.28:472][370]LogBlueprint: Warning: [AssetLog] C:\Users\dinad\OneDrive\Documents\Unreal Projects\Suspense_Project_VR\VR_Project\Content\Minecart\Cart_BP.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  On Component Begin Overlap (Radius)  and was replaced as a Custom Event!
+[2025.06.10-18.59.08:642][207]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 61200.425781
+[2025.06.10-18.59.08:703][214]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.10-18.59.08:703][214]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 61200.480469, Update Interval: 343.082367
+[2025.06.10-19.00.37:065][429]LogEditorTransaction: Undo Delete current selection
+[2025.06.10-19.00.37:576][441]LogEditorTransaction: Undo Move Node
+[2025.06.10-19.00.37:888][456]LogEditorTransaction: Undo Create Pin Link
+[2025.06.10-19.00.38:125][469]LogEditorTransaction: Undo Delete current selection
+[2025.06.10-19.00.38:381][484]LogEditorTransaction: Undo Break Pin Links
+[2025.06.10-19.00.38:649][500]LogEditorTransaction: Undo Move Node
+[2025.06.10-19.00.39:207][551]LogEditorTransaction: Undo Break Pin Links
+[2025.06.10-19.00.39:633][586]LogEditorTransaction: Undo Break Pin Links
+[2025.06.10-19.00.39:956][600]LogEditorTransaction: Undo Move Node
+[2025.06.10-19.00.40:419][627]LogEditorTransaction: Undo Move Node
+[2025.06.10-19.00.41:172][699]LogEditorTransaction: Undo Move Node
+[2025.06.10-19.00.41:648][710]LogEditorTransaction: Undo Move Node
+[2025.06.10-19.00.42:130][749]LogEditorTransaction: Undo Create Pin Link
+[2025.06.10-19.00.42:606][790]LogEditorTransaction: Undo Move Node
+[2025.06.10-19.00.46:956][250]LogBlueprint: Error: [AssetLog] C:\Users\dinad\OneDrive\Documents\Unreal Projects\Suspense_Project_VR\VR_Project\Content\Minecart\Cart_BP.uasset: [Compiler] The type of  Array  is undetermined.  Connect something to  For Each Loop  to imply a specific type.
+[2025.06.10-19.00.46:956][250]LogBlueprint: Error: [AssetLog] C:\Users\dinad\OneDrive\Documents\Unreal Projects\Suspense_Project_VR\VR_Project\Content\Minecart\Cart_BP.uasset: [Compiler] The type of  Target Array generated from expanding For Each Loop  is undetermined.  Connect something to  Length generated from expanding For Each Loop  to imply a specific type.
+[2025.06.10-19.00.47:019][250]LogStreaming: Display: FlushAsyncLoading(534): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.10-19.00.47:111][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.06.10-19.00.49:277][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.10-19.00.49:325][428]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/VRPawn] ([2] browsable assets)...
+[2025.06.10-19.00.49:339][428]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn]
+[2025.06.10-19.00.49:339][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/VRPawn]
+[2025.06.10-19.00.49:423][428]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2025.06.10-19.00.49:424][428]LogSavePackage: Moving '../../../../../../Users/dinad/OneDrive/Documents/Unreal Projects/Suspense_Project_VR/VR_Project/Saved/VRPawn2707AFDC40205260D4E36DA284ECDDC2.tmp' to '../../../../../../Users/dinad/OneDrive/Documents/Unreal Projects/Suspense_Project_VR/VR_Project/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2025.06.10-19.00.49:444][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 166.756 ms (total: 1.82 sec)
+[2025.06.10-19.00.49:495][428]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.10-19.00.49:495][428]LogContentValidation: Enabled validators:
+[2025.06.10-19.00.49:495][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.10-19.00.49:495][428]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.10-19.00.49:495][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.10-19.00.49:495][428]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.10-19.00.49:495][428]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.10-19.00.49:495][428]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.10-19.00.49:495][428]AssetCheck: /Game/VRTemplate/Blueprints/VRPawn Validating asset
+[2025.06.10-19.02.25:395][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.10-19.02.25:441][923]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Minecart/Cart_BP] ([2] browsable assets)...
+[2025.06.10-19.02.25:455][923]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Minecart/Cart_BP.Cart_BP]
+[2025.06.10-19.02.25:455][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/Minecart/Cart_BP]
+[2025.06.10-19.02.25:455][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Minecart/Cart_BP" FILE="../../../../../../Users/dinad/OneDrive/Documents/Unreal Projects/Suspense_Project_VR/VR_Project/Content/Minecart/Cart_BP.uasset" SILENT=true
+[2025.06.10-19.02.25:467][923]LogSavePackage: Moving output files for package: /Game/Minecart/Cart_BP
+[2025.06.10-19.02.25:469][923]LogSavePackage: Moving '../../../../../../Users/dinad/OneDrive/Documents/Unreal Projects/Suspense_Project_VR/VR_Project/Saved/Cart_BP606115D9410A49F716D1F987E1541347.tmp' to '../../../../../../Users/dinad/OneDrive/Documents/Unreal Projects/Suspense_Project_VR/VR_Project/Content/Minecart/Cart_BP.uasset'
+[2025.06.10-19.02.25:486][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.056 ms (total: 1.91 sec)
+[2025.06.10-19.02.25:539][923]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.10-19.02.25:539][923]LogContentValidation: Enabled validators:
+[2025.06.10-19.02.25:539][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.10-19.02.25:539][923]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.10-19.02.25:539][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.10-19.02.25:539][923]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.10-19.02.25:539][923]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.10-19.02.25:539][923]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.10-19.02.25:539][923]AssetCheck: /Game/Minecart/Cart_BP Validating asset
+[2025.06.10-19.02.25:765][945]LogBlueprint: Error: [AssetLog] C:\Users\dinad\OneDrive\Documents\Unreal Projects\Suspense_Project_VR\VR_Project\Content\Minecart\Cart_BP.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To VRPawn  to imply a specific type.
+[2025.06.10-19.02.25:767][945]LogBlueprint: Error: [AssetLog] C:\Users\dinad\OneDrive\Documents\Unreal Projects\Suspense_Project_VR\VR_Project\Content\Minecart\Cart_BP.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2025.06.10-19.02.25:827][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.06.10-19.02.39:964][387]LogEditorTransaction: Undo Create Pin Link
+[2025.06.10-19.02.40:186][391]LogEditorTransaction: Undo Delete current selection
+[2025.06.10-19.02.40:409][394]LogEditorTransaction: Undo Delete current selection
+[2025.06.10-19.02.40:801][413]LogEditorTransaction: Undo Move Node
+[2025.06.10-19.02.41:214][445]LogEditorTransaction: Undo Move Node
+[2025.06.10-19.02.41:722][489]LogEditorTransaction: Undo Create Pin Link
+[2025.06.10-19.02.42:095][517]LogEditorTransaction: Undo Move Node
+[2025.06.10-19.02.43:147][622]LogEditorTransaction: Undo Create Pin Link
+[2025.06.10-19.02.43:702][667]LogEditorTransaction: Undo Move Node
+[2025.06.10-19.02.44:459][708]LogEditorTransaction: Undo Move Node
+[2025.06.10-19.02.44:803][733]LogEditorTransaction: Undo Delete current selection
+[2025.06.10-19.02.45:235][768]LogEditorTransaction: Undo Move Node
+[2025.06.10-19.02.45:522][786]LogEditorTransaction: Undo Add Node
+[2025.06.10-19.02.45:765][798]LogEditorTransaction: Undo Move Node
+[2025.06.10-19.02.45:942][803]LogEditorTransaction: Undo Move Node
+[2025.06.10-19.02.46:152][812]LogEditorTransaction: Undo Move Node
+[2025.06.10-19.02.46:448][832]LogEditorTransaction: Undo Move Node
+[2025.06.10-19.02.46:680][844]LogEditorTransaction: Undo Move Node
+[2025.06.10-19.02.46:979][863]LogEditorTransaction: Undo Break Pin Links
+[2025.06.10-19.02.47:702][933]LogEditorTransaction: Undo Break Pin Links
+[2025.06.10-19.03.32:017][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.06.10-19.03.33:261][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.10-19.03.33:321][837]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Minecart/Cart_BP] ([2] browsable assets)...
+[2025.06.10-19.03.33:331][837]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Minecart/Cart_BP.Cart_BP]
+[2025.06.10-19.03.33:331][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/Minecart/Cart_BP]
+[2025.06.10-19.03.33:331][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Minecart/Cart_BP" FILE="../../../../../../Users/dinad/OneDrive/Documents/Unreal Projects/Suspense_Project_VR/VR_Project/Content/Minecart/Cart_BP.uasset" SILENT=true
+[2025.06.10-19.03.33:343][837]LogSavePackage: Moving output files for package: /Game/Minecart/Cart_BP
+[2025.06.10-19.03.33:345][837]LogSavePackage: Moving '../../../../../../Users/dinad/OneDrive/Documents/Unreal Projects/Suspense_Project_VR/VR_Project/Saved/Cart_BP4D03C6CE4F64C21DEF1EE0BFC7423C0E.tmp' to '../../../../../../Users/dinad/OneDrive/Documents/Unreal Projects/Suspense_Project_VR/VR_Project/Content/Minecart/Cart_BP.uasset'
+[2025.06.10-19.03.33:360][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.291 ms (total: 2.01 sec)
+[2025.06.10-19.03.33:409][837]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.10-19.03.33:409][837]LogContentValidation: Enabled validators:
+[2025.06.10-19.03.33:409][837]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.10-19.03.33:409][837]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.10-19.03.33:409][837]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.10-19.03.33:409][837]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.10-19.03.33:409][837]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.10-19.03.33:409][837]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.10-19.03.33:409][837]AssetCheck: /Game/Minecart/Cart_BP Validating asset
+[2025.06.10-19.05.29:045][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.06.10-19.05.29:050][325]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Basic_Map' took 0.030
+[2025.06.10-19.05.29:051][325]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Minecart/Cart_BP] ([2] browsable assets)...
+[2025.06.10-19.05.29:060][325]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Minecart/Cart_BP.Cart_BP]
+[2025.06.10-19.05.29:060][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/Minecart/Cart_BP]
+[2025.06.10-19.05.29:073][325]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Minecart/Cart_BP_Auto1
+[2025.06.10-19.05.29:074][325]LogSavePackage: Moving '../../../../../../Users/dinad/OneDrive/Documents/Unreal Projects/Suspense_Project_VR/VR_Project/Saved/Cart_BP_Auto102E45C3B40DF608050E1A2B06B8EE937.tmp' to '../../../../../../Users/dinad/OneDrive/Documents/Unreal Projects/Suspense_Project_VR/VR_Project/Saved/Autosaves/Game/Minecart/Cart_BP_Auto1.uasset'
+[2025.06.10-19.05.29:076][325]LogFileHelpers: Auto-saving content packages took 0.026
+[2025.06.10-19.05.35:229][978]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 61569.714844
+[2025.06.10-19.05.35:291][985]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.10-19.05.35:291][985]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 61569.761719, Update Interval: 346.773895
+[2025.06.10-19.06.28:769][920]LogBlueprint: Error: [AssetLog] C:\Users\dinad\OneDrive\Documents\Unreal Projects\Suspense_Project_VR\VR_Project\Content\Minecart\Cart_BP.uasset: [Compiler] The type of  Array  is undetermined.  Connect something to  For Each Loop  to imply a specific type.
+[2025.06.10-19.06.28:769][920]LogBlueprint: Error: [AssetLog] C:\Users\dinad\OneDrive\Documents\Unreal Projects\Suspense_Project_VR\VR_Project\Content\Minecart\Cart_BP.uasset: [Compiler] The type of  Target Array generated from expanding For Each Loop  is undetermined.  Connect something to  Length generated from expanding For Each Loop  to imply a specific type.
+[2025.06.10-19.06.28:831][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.06.10-19.07.55:774][660]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.10-19.07.55:821][660]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Minecart/Cart_BP] ([2] browsable assets)...
+[2025.06.10-19.07.55:839][660]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Minecart/Cart_BP.Cart_BP]
+[2025.06.10-19.07.55:839][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/Minecart/Cart_BP]
+[2025.06.10-19.07.55:839][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Minecart/Cart_BP" FILE="../../../../../../Users/dinad/OneDrive/Documents/Unreal Projects/Suspense_Project_VR/VR_Project/Content/Minecart/Cart_BP.uasset" SILENT=true
+[2025.06.10-19.07.55:851][660]LogSavePackage: Moving output files for package: /Game/Minecart/Cart_BP
+[2025.06.10-19.07.55:852][660]LogSavePackage: Moving '../../../../../../Users/dinad/OneDrive/Documents/Unreal Projects/Suspense_Project_VR/VR_Project/Saved/Cart_BPE527E0C04E037B37CF957494ED76C68E.tmp' to '../../../../../../Users/dinad/OneDrive/Documents/Unreal Projects/Suspense_Project_VR/VR_Project/Content/Minecart/Cart_BP.uasset'
+[2025.06.10-19.07.55:865][660]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.305 ms (total: 2.10 sec)
+[2025.06.10-19.07.55:909][660]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.10-19.07.55:909][660]LogContentValidation: Enabled validators:
+[2025.06.10-19.07.55:909][660]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.10-19.07.55:909][660]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.10-19.07.55:909][660]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.10-19.07.55:909][660]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.10-19.07.55:909][660]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.10-19.07.55:909][660]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.10-19.07.55:909][660]AssetCheck: /Game/Minecart/Cart_BP Validating asset
+[2025.06.10-19.07.56:136][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.06.10-19.07.59:185][831]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.10-19.07.59:194][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.10-19.07.59:195][831]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Basic_Map
+[2025.06.10-19.07.59:201][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006149s)
+[2025.06.10-19.07.59:201][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Basic_Map.Basic_Map to /Game/UEDPIE_0_Basic_Map.Basic_Map (0.006208s)
+[2025.06.10-19.07.59:226][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.06.10-19.07.59:238][831]LogChaosDD: Creating Chaos Debug Draw Scene for world Basic_Map
+[2025.06.10-19.07.59:239][831]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/UEDPIE_0_Basic_Map.Basic_Map'.
+[2025.06.10-19.07.59:241][831]LogPlayLevel: PIE: World Init took: (0.002049s)
+[2025.06.10-19.07.59:241][831]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.06.10-19.07.59:241][831]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.10-19.07.59:241][831]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.10-19.07.59:241][831]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.10-19.07.59:241][831]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.10-19.07.59:241][831]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.10-19.07.59:241][831]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.10-19.07.59:241][831]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.10-19.07.59:241][831]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.10-19.07.59:241][831]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.10-19.07.59:241][831]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.10-19.07.59:241][831]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.10-19.07.59:244][831]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.10-19.07.59:315][831]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.06.10-19.07.59:316][831]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.10-19.07.59:316][831]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.10-19.07.59:316][831]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.10-19.07.59:316][831]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.06.10-19.07.59:317][831]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.06.10-19.07.59:320][831]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.06.10-19.07.59:320][831]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.06.10-19.07.59:320][831]LogInit: FAudioDevice initialized with ID 15.
+[2025.06.10-19.07.59:320][831]LogAudio: Display: Audio Device (ID: 15) registered with world 'Basic_Map'.
+[2025.06.10-19.07.59:320][831]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.06.10-19.07.59:325][831]LogLoad: Game class is 'VRGameMode_C'
+[2025.06.10-19.07.59:328][831]LogWorld: Bringing World /Game/UEDPIE_0_Basic_Map.Basic_Map up for play (max tick rate 60) at 2025.06.10-15.07.59
+[2025.06.10-19.07.59:329][831]LogWorld: Bringing up level for play took: 0.002898
+[2025.06.10-19.07.59:332][831]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.06.10-19.07.59:336][831]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.06.10-19.07.59:337][831]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.06.10-19.07.59:339][831]PIE: Server logged in
+[2025.06.10-19.07.59:341][831]PIE: Play in editor total start time 0.146 seconds.
+[2025.06.10-19.08.02:028][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.10-19.08.02:029][989]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Basic_Map
+[2025.06.10-19.08.02:029][989]LogWorld: UWorld::CleanupWorld for Basic_Map, bSessionEnded=true, bCleanupResources=true
+[2025.06.10-19.08.02:029][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.10-19.08.02:049][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.10-19.08.02:055][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.10-19.08.02:076][989]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.10-19.08.02:076][989]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.06.10-19.08.02:076][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.06.10-19.08.02:079][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.06.10-19.08.02:084][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.10-19.08.02:087][989]LogSlate: Slate User Unregistered.  User Index 8
+[2025.06.10-19.08.02:087][989]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.06.10-19.08.02:089][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.06.10-19.08.02:191][990]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.06.10-19.08.08:683][355]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.10-19.08.08:683][355]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Basic_Map
+[2025.06.10-19.08.08:688][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004830s)
+[2025.06.10-19.08.08:688][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Basic_Map.Basic_Map to /Game/UEDPIE_0_Basic_Map.Basic_Map (0.004900s)
+[2025.06.10-19.08.08:715][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.06.10-19.08.08:717][355]LogChaosDD: Creating Chaos Debug Draw Scene for world Basic_Map
+[2025.06.10-19.08.08:719][355]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/UEDPIE_0_Basic_Map.Basic_Map'.
+[2025.06.10-19.08.08:719][355]LogPlayLevel: PIE: World Init took: (0.002069s)
+[2025.06.10-19.08.08:721][355]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.06.10-19.08.08:721][355]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.10-19.08.08:721][355]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.10-19.08.08:721][355]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.10-19.08.08:721][355]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.10-19.08.08:721][355]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.10-19.08.08:721][355]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.10-19.08.08:721][355]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.10-19.08.08:721][355]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.10-19.08.08:721][355]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.10-19.08.08:721][355]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.10-19.08.08:721][355]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.10-19.08.08:725][355]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.10-19.08.08:805][355]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.06.10-19.08.08:805][355]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.10-19.08.08:805][355]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.10-19.08.08:807][355]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.10-19.08.08:807][355]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.06.10-19.08.08:807][355]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.06.10-19.08.08:811][355]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.06.10-19.08.08:811][355]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.06.10-19.08.08:811][355]LogInit: FAudioDevice initialized with ID 16.
+[2025.06.10-19.08.08:811][355]LogAudio: Display: Audio Device (ID: 16) registered with world 'Basic_Map'.
+[2025.06.10-19.08.08:811][355]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.06.10-19.08.08:815][355]LogLoad: Game class is 'VRGameMode_C'
+[2025.06.10-19.08.08:817][355]LogWorld: Bringing World /Game/UEDPIE_0_Basic_Map.Basic_Map up for play (max tick rate 60) at 2025.06.10-15.08.08
+[2025.06.10-19.08.08:818][355]LogWorld: Bringing up level for play took: 0.002701
+[2025.06.10-19.08.08:821][355]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.06.10-19.08.08:825][355]PIE: Server logged in
+[2025.06.10-19.08.08:827][355]PIE: Play in editor total start time 0.144 seconds.
+[2025.06.10-19.08.09:800][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.10-19.08.09:800][400]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Basic_Map
+[2025.06.10-19.08.09:801][400]LogWorld: UWorld::CleanupWorld for Basic_Map, bSessionEnded=true, bCleanupResources=true
+[2025.06.10-19.08.09:801][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.10-19.08.09:808][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.10-19.08.09:814][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.10-19.08.09:839][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.10-19.08.09:839][400]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.06.10-19.08.09:839][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.06.10-19.08.09:842][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.06.10-19.08.09:855][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.06.10-19.08.09:959][401]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.06.10-19.08.16:048][735]LogEditorTransaction: Undo Paste clipboard contents
+[2025.06.10-19.09.30:402][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.06.10-19.09.31:166][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.10-19.09.31:255][201]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Minecart/Cart_BP] ([2] browsable assets)...
+[2025.06.10-19.09.31:274][201]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Minecart/Cart_BP.Cart_BP]
+[2025.06.10-19.09.31:274][201]OBJ SavePackage: Finished generating thumbnails for package [/Game/Minecart/Cart_BP]
+[2025.06.10-19.09.31:274][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Minecart/Cart_BP" FILE="../../../../../../Users/dinad/OneDrive/Documents/Unreal Projects/Suspense_Project_VR/VR_Project/Content/Minecart/Cart_BP.uasset" SILENT=true
+[2025.06.10-19.09.31:286][201]LogSavePackage: Moving output files for package: /Game/Minecart/Cart_BP
+[2025.06.10-19.09.31:288][201]LogSavePackage: Moving '../../../../../../Users/dinad/OneDrive/Documents/Unreal Projects/Suspense_Project_VR/VR_Project/Saved/Cart_BPA783A0E34034ACC84C46E5A79BD8F990.tmp' to '../../../../../../Users/dinad/OneDrive/Documents/Unreal Projects/Suspense_Project_VR/VR_Project/Content/Minecart/Cart_BP.uasset'
+[2025.06.10-19.09.31:307][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.094 ms (total: 2.24 sec)
+[2025.06.10-19.09.31:363][201]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.10-19.09.31:363][201]LogContentValidation: Enabled validators:
+[2025.06.10-19.09.31:363][201]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.10-19.09.31:363][201]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.10-19.09.31:363][201]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.10-19.09.31:363][201]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.10-19.09.31:363][201]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.10-19.09.31:363][201]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.10-19.09.31:363][201]AssetCheck: /Game/Minecart/Cart_BP Validating asset
+[2025.06.10-19.12.17:599][148]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 61956.921875
+[2025.06.10-19.12.17:698][154]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.10-19.12.17:698][154]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 61957.000000, Update Interval: 315.872070
+[2025.06.10-19.18.26:343][973]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 62324.457031
+[2025.06.10-19.18.27:342][976]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.10-19.18.27:342][976]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 62325.125000, Update Interval: 314.945526
