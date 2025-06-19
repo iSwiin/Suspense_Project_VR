@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"G:\\VRSuspense\\FinalRepo\\Suspense_Project_VR\\VR_Project\\Intermediate\\Source\\VR_Project.Build.cs",
+		"G:\\VRSuspense\\FinalRepo\\Suspense_Project_VR\\VR_Project\\Intermediate\\Source\\VR_Project.Target.cs",
+		"G:\\VRSuspense\\FinalRepo\\Suspense_Project_VR\\VR_Project\\Intermediate\\Source\\VR_ProjectClient.Target.cs",
+		"G:\\VRSuspense\\FinalRepo\\Suspense_Project_VR\\VR_Project\\Intermediate\\Source\\VR_ProjectEditor.Target.cs",
+		"G:\\VRSuspense\\FinalRepo\\Suspense_Project_VR\\VR_Project\\Intermediate\\Source\\VR_ProjectServer.Target.cs"
+	],
+	"EngineVersion": "5.5.3"
+}
