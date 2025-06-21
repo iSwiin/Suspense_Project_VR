@@ -1,9 +1,2 @@
-[0606/144025.140:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 87
-[0606/144204.106:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0606/202739.475:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0606/202739.476:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0607/110837.963:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0607/110837.988:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0607/110839.559:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0607/144055.886:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0607/144055.890:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0620/174055.232:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0620/174254.067:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
