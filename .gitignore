@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+VR_Project/Build/*
+VR_Project/Binaries/*
+VR_Project/Intermediate/Android/*
